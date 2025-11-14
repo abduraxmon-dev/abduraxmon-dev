@@ -1,9 +1,10 @@
   # 💫 About Me:
-Hello, Coding World! 👋<br>I'm a Full Stack Developer who loves clean code, modern frameworks, and crafting seamless user experiences.<br><br>💻 I’m currently working on: Building out a highly scalable real-time data processing backend using Node.js and Redis.<br><br>🤝 I’m looking to collaborate on: Open Source projects focused on Web accessibility or small, impactful utility libraries built with TypeScript.<br><br>❓ I’m looking for help with: Mastering advanced CI/CD pipelines using GitHub Actions and complex deployment strategies on AWS.<br><br>📚 I’m currently learning: The ins and outs of Go (Golang) for writing performant microservices.<br><br>💬 Ask me about: React state management (I have strong opinions on Zustand!), efficient database indexing, or API design.<br><br>⚡ Fun fact: I write my best code at 3 AM, but I am terrible at drinking coffee past noon! 😴
 
 <p align="start">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Vue+%7C+React+%7C+JavaScript+%7C+HTML+%7C+CSS;Always+learning+new+things!"/>
 </p>
+  
+Hello, Coding World! 👋<br>I'm a Full Stack Developer who loves clean code, modern frameworks, and crafting seamless user experiences.<br><br>💻 I’m currently working on: Building out a highly scalable real-time data processing backend using Node.js and Redis.<br><br>🤝 I’m looking to collaborate on: Open Source projects focused on Web accessibility or small, impactful utility libraries built with TypeScript.<br><br>❓ I’m looking for help with: Mastering advanced CI/CD pipelines using GitHub Actions and complex deployment strategies on AWS.<br><br>📚 I’m currently learning: The ins and outs of Go (Golang) for writing performant microservices.<br><br>💬 Ask me about: React state management (I have strong opinions on Zustand!), efficient database indexing, or API design.<br><br>⚡ Fun fact: I write my best code at 3 AM, but I am terrible at drinking coffee past noon! 😴
 
 
 ## 🌐 Socials:
